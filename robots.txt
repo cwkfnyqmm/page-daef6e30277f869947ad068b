@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-4660bf2491.0859zhangyi.cn/sitemap.xml
